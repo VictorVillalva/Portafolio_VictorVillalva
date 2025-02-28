@@ -45,7 +45,7 @@ export default function Home() {
               animation="fadeIn" 
               by="character" 
               as="h1" 
-              className="w-full text-center font-semibold break-text break-all overflow-hidden text-[32px] tracking-tighter leading-none md:text-[78px] xl:text-[90px] lg:tracking-tighter"
+              className="w-full text-center font-semibold overflow-hidden text-[32px] tracking-tighter leading-none md:text-[78px] xl:text-[90px] lg:tracking-tighter"
             >
               Diseñando experiencias, desarrollando el futuro
             </TextAnimate>
