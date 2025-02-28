@@ -4,8 +4,8 @@ import React, { useRef} from 'react';
 import { projects } from '../public/data/data'; // Ensure that the file exists at this path or update the path accordingly
 
 const ScrollCarousel = () => {
-    const carouselRef1 = useRef<HTMLDivElement>(null);
-    const carouselRef2 = useRef<HTMLDivElement>(null);
+    const carouselRef1 = useRef<HTMLDivElement>(null!);
+    const carouselRef2 = useRef<HTMLDivElement>(null!);
     const lastScroll = useRef(0);
 
     React.useEffect(() => {

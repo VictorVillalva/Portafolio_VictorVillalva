@@ -8,7 +8,6 @@ import { TextAnimate } from "@/components/magicui/text-animate";
 import { BoxReveal } from "@/components/magicui/box-reveal";
 import { BlurFade } from "@/components/magicui/blur-fade";
 import { Particles } from "@/components/magicui/particles";
-import SimpleDock from "@/components/Dock";
 
 // Importación de componentes con lazy loading
 const Header = lazy(() => import("@/components/Header"));
