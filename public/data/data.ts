@@ -28,7 +28,8 @@ export const proyectos = [
         description: "Desarrollo y maquetado de un catálogo de servicios para una empresa de tecnología, aplicando conceptos de diseño responsivo y accesibilidad, con un enfoque en la usabilidad y la experiencia del usuario.",
         imageUrl: "/ui/assets/images/catalogo.png",
         imageAlt: "Catalogo",
-        badges: ["Figma", "Next.js", "TypeScript", "Tailwind", "NextAuth"]
+        badges: ["Figma", "Next.js", "TypeScript", "Tailwind", "NextAuth"],
+        link: "https://www.figma.com/design/FsmFoyHgKz1nrFBipzggEN/Catalogo-de-productos?node-id=0-1&t=2F2apMXmomzeO7eT-1"
     },
     {
         id: 2,
@@ -37,7 +38,8 @@ export const proyectos = [
         description: "Generación de maquetado y prototipado de alta fidelidad de tipo móvil para el desarrollo de una aplicación de rutas de transporte, aplicando reglas de diseño móvil, psicología de color y empatizando con el usuario.",
         imageUrl: "/ui/assets/images/rabbitGo.png",
         imageAlt: "RabbitGo",
-        badges: ["Figma"]
+        badges: ["Figma"],
+        link: "https://www.figma.com/design/4GxvDDvl0nuqx1m400BkAL/RabbitGO?node-id=0-1&t=9oWFp9ty7ZM4YfQZ-1"
     },
     {
         id: 3,
@@ -46,7 +48,8 @@ export const proyectos = [
         description: "Generación de maquetado de alta fidelidad para un hackathon de VaraNetwork, aplicando tendencias de diseño atractivas y estructuración de componentes intuitivos.",
         imageUrl: "/ui/assets/images/main-presentation.png",
         imageAlt: "Maincoin",
-        badges: ["Figma", "React", "Vite", "JavaScript", "Tailwind", "Blockchain"]
+        badges: ["Figma", "React", "Vite", "JavaScript", "Tailwind", "Blockchain"],
+        link: "https://www.figma.com/design/IokvKlcBQxWCAJe2D6SlMz/MainCoin?node-id=1-3796&t=DApY77RxgwRDT68Z-1"
     },
     {
         id: 4,
@@ -55,6 +58,7 @@ export const proyectos = [
         description: "Desarrolle un producto IoT para monitoreo de la calidad del agua, donde utilice herramientas de diseño como Figma para el maquetado, y para el desarrollo en código utilice React Vite con JavaScript y Tailwind CSS.",
         imageUrl: "/ui/assets/images/aquaQA.png",
         imageAlt: "AquaQA",
-        badges: ["Figma", "React", "Vite", "Tailwind", "JavaScript", "Raspberry Pi"]
+        badges: ["Figma", "React", "Vite", "Tailwind", "JavaScript", "Raspberry Pi"],
+        link: ""
     },
 ];

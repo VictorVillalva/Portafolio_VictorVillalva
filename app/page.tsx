@@ -206,6 +206,7 @@ export default function Home() {
                     imageUrl={proyecto.imageUrl}
                     imageAlt={proyecto.imageAlt}
                     badges={proyecto.badges}
+                    link={proyecto.link}
                   />
                 </Suspense>
               </div>
