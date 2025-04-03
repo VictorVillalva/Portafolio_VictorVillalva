@@ -1,4 +1,5 @@
 'use client'
+import LogoVV from "@/app/assets/icons/LogoVV";
 import React, { useState } from "react"
 
 export default function NavbarBasic() {
@@ -23,7 +24,8 @@ export default function NavbarBasic() {
                     role="navigation"
                 >
                     {/*      <!-- Brand logo --> */}
-                    <div className="flex justify-center items-center">
+                    <div className="flex flex-row justify-center items-center gap-2">
+                        <LogoVV w={40} h={24} />
                         <p className="text-base font-extrabold">VictorVillalva</p>
                     </div>
                     {/*      <!-- Mobile trigger --> */}
