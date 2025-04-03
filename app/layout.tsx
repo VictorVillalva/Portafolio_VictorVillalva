@@ -5,7 +5,10 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Portfolio",
   description: "Portafolio personal",
-};
+  icons: {
+    icon: "/ui/assets/icons/Logo-Victor.svg",
+  } 
+}
 
 export default function RootLayout({
   children,
